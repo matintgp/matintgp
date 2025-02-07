@@ -76,14 +76,14 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:matt369tp@gmail.com">
     <img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://t.me/matintqp">
+    <img src="https://img.shields.io/badge/-Join_on_Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/matin_tgp">
+    <img src="https://img.shields.io/badge/-Follow_on_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
