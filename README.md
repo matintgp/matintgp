@@ -1,53 +1,100 @@
-# 👋 Hello, I'm [Your Name]
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Your Name]
 
-> Backend Developer with a passion for building robust and scalable web applications
+> Backend Developer specializing in Python ecosystems and data engineering
 
-## 🛠️ Tech Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer;Python+Expert;Data+Engineering+Enthusiast;API+Developer" alt="Typing SVG" />
+</div>
 
-### Backend Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![DRF](https://img.shields.io/badge/-Django_REST_Framework-092E20?style=flat-square&logo=Django&logoColor=white)
+## 🛠️ Technology Arsenal
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+### Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=Flask&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-DRF-092E20?style=for-the-badge&logo=Django&logoColor=white&labelColor=2C2C2C" />
+</p>
+
+### Databases & Caching
+<p align="left">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2C2C2C" />
+</p>
+
+### Data Science & Automation
+<p align="left">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Seaborn-7DB0BC?style=for-the-badge&logo=python&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white&labelColor=2C2C2C" />
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2C2C2C" />
+</p>
+
+### Frontend Basics
+<p align="left">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2C2C2C" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2C2C2C" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matintgp&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matintgp&layout=compact&langs_count=8&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=matintgp&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1" />
+</p>
 
 ## 💡 What I Do
 
-- Design and develop RESTful APIs using Django REST Framework and FastAPI
-- Build scalable web applications with Python frameworks (Django, Flask)
-- Create efficient database schemas and optimize queries
-- Implement secure authentication and authorization systems
-- Write clean, maintainable, and well-documented code
-- Collaborate with frontend developers to integrate APIs
+- 🔨 Design and implement scalable backend systems
+- 🎯 Develop RESTful APIs and microservices
+- 📊 Work with various databases and data processing pipelines
+- 🤖 Create automation solutions using Selenium
+- 📈 Implement data analysis solutions using Python
+- 🛠️ Build and maintain CI/CD pipelines
 
 ## 🌱 Currently Learning
 
-- Advanced API Security Patterns
-- Microservices Architecture
-- Cloud Native Development
-- Performance Optimization
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matintgp&show_icons=true&theme=dracula)
+- 🚀 Advanced Microservices Patterns
+- 🔒 Cloud Security Best Practices
+- 📊 Advanced Data Engineering
+- 🎯 System Design Optimization
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://YOUR_WEBSITE)
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/-Follow_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+</p>
 
-## 📫 How to Reach Me
-
-- 💼 Open for collaboration on Python/Django projects
-- 📧 Email: your.email@example.com
-- 💬 Ask me about Python, Django, REST APIs, or backend development
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=matintgp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
 
 ---
 
-⭐️ From [Your Username](https://github.com/YOUR_USERNAME)
+<div align="center">
+  
+  ### Show some ❤️ by starring repositories that you find helpful!
+  
+</div>
