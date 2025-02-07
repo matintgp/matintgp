@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matintgp&show_icons=true&theme=dracula)
 
 ## 🤝 Let's Connect
 
